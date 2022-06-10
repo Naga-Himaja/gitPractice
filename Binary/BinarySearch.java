@@ -1,4 +1,4 @@
-package MyPack;
+package Binary;
 
 public class BinarySearch {
 	static int non_rec(int arr[],int ele, int low, int high)
