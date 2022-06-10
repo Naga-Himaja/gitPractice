@@ -1,1 +1,1 @@
-#Check out DSA!
+Check out DSA!
